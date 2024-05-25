@@ -1,6 +1,6 @@
 # Guided-Projects-Coursera
 
-1. Getting Started with Power BI Desktop (25 May 2024)
+## 1. Getting Started with Power BI Desktop (25 May 2024)
    - Power BI Desktop software
    - analyzing data on credit card defaults with Power BI Desktop
    - Power BI Desktop is a free Business Intelligence application from Microsoft that lets you load, transform, and visualize data.
