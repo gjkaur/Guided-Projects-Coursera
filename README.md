@@ -15,7 +15,7 @@
       The hands on project on Getting Started with Power BI Desktop is divided into following tasks:
       
       - Task 1: Introduction
-      - Task 2: Overview of the Rhyme interface
+      - Task 2: Overview of the Rhyme interface (Coursera's hands-on platform called Rhyme) - instant access to a cloud desktop with Python, Jupyter, and TensorFlow pre-installed.  
       - Task 3: Importing the Data
       - Task 4: Fixing the Column Names
       - Task 5: Transforming the Data
