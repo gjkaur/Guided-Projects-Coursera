@@ -36,4 +36,9 @@
 ![image](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/assets/36306330/1e2250e2-e808-4d4c-9d5a-8d98e4630031)
 ![image](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/assets/36306330/f5efa166-e10a-401a-b4c4-d82ec523e0f1)
 
-
+## [3. HR Analytics- Build an HR dashboard using Power BI](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/tree/main/HR%20Analytics-%20Build%20an%20HR%20dashboard%20using%20Power%20BI)
+- Learning Objectives
+     - Building an attractive and eye-catching HR dashboard
+     - Visualizing gender & racial diversity using graphs & charts in Power BI
+     - Adding buttons, themes and filters to make the dashboard interactive & smart
+ 
