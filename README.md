@@ -23,3 +23,13 @@
       - Task 7: Defaults by Education Level
       - Task 8: Defaults by States
       - Task 9: Defaulter Ratio and Slicing the Data
+
+## [2. Build Dashboards in Power BI (26 May 2024)]()
+   - Create a Dashboard in Power BI. You will get data to bring into a model, build several reports, generate informative charts from each report, then choose powerful visuals to highlight on a Dashboard.
+   - Learning Objectives
+      - Acquire/Extract Data and Load to Power BI.
+      - Clean, Transform and Load Data.
+      - Build Reports.
+      - Generate Visuals from Reports.
+      - Choose Visuals and Pin to Dashboard.
+     ![Uploading image.png…]()
