@@ -33,4 +33,7 @@
       - Generate Visuals from Reports.
       - Choose Visuals and Pin to Dashboard.
   ![image](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/assets/36306330/f31180b3-bc90-4561-a576-715af3e24006)
+![image](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/assets/36306330/1e2250e2-e808-4d4c-9d5a-8d98e4630031)
+![image](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/assets/36306330/f5efa166-e10a-401a-b4c4-d82ec523e0f1)
+
 
