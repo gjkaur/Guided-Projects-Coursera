@@ -41,4 +41,11 @@
      - Building an attractive and eye-catching HR dashboard
      - Visualizing gender & racial diversity using graphs & charts in Power BI
      - Adding buttons, themes and filters to make the dashboard interactive & smart
- 
+       
+ ## [4. Use Power Bi for Financial Data Analysis](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/tree/main/Use%20Power%20Bi%20for%20Financial%20Data%20Analysis)
+  - Learning Objectives
+      - Navigate and understand the process of importing data into Power Bi.
+      - Learn how to use Power Query to clean data before constructing visuals and reports.
+      - Publish and share your report.
+      - Create and design a reporting dashboard with dynamic features.
+      - Determine relationships between data and establish reference tables in Power Bi.
