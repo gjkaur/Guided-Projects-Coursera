@@ -32,4 +32,5 @@
       - Build Reports.
       - Generate Visuals from Reports.
       - Choose Visuals and Pin to Dashboard.
-     ![Uploading image.png…]()
+  ![image](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/assets/36306330/f31180b3-bc90-4561-a576-715af3e24006)
+
