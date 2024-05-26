@@ -1,6 +1,6 @@
 # Guided-Projects-Coursera-Power-BI
 
-## [1. Getting Started with Power BI Desktop (25 May 2024)](https://github.com/gjkaur/Guided-Projects-Coursera/tree/main/Getting%20Started%20with%20Power%20BI%20Desktop)
+## [1. Getting Started with Power BI Desktop](https://github.com/gjkaur/Guided-Projects-Coursera/tree/main/Getting%20Started%20with%20Power%20BI%20Desktop)
    - Power BI Desktop software
    - Analyzing data on credit card defaults with Power BI Desktop
    - Power BI Desktop is a free Business Intelligence application from Microsoft that lets you load, transform, and visualize data.
@@ -24,7 +24,7 @@
       - Task 8: Defaults by States
       - Task 9: Defaulter Ratio and Slicing the Data
 
-## [2. Build Dashboards in Power BI (26 May 2024)](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/tree/main/Build%20Dashboards%20in%20Power%20BI)
+## [2. Build Dashboards in Power BI](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/tree/main/Build%20Dashboards%20in%20Power%20BI)
    - Create a Dashboard in Power BI. You will get data to bring into a model, build several reports, generate informative charts from each report, then choose powerful visuals to highlight on a Dashboard.
    - Learning Objectives
       - Acquire/Extract Data and Load to Power BI.
