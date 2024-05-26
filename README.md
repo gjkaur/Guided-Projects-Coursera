@@ -24,7 +24,7 @@
       - Task 8: Defaults by States
       - Task 9: Defaulter Ratio and Slicing the Data
 
-## [2. Build Dashboards in Power BI (26 May 2024)]()
+## [2. Build Dashboards in Power BI (26 May 2024)](https://github.com/gjkaur/Guided-Projects-Coursera-Power-BI/tree/main/Build%20Dashboards%20in%20Power%20BI)
    - Create a Dashboard in Power BI. You will get data to bring into a model, build several reports, generate informative charts from each report, then choose powerful visuals to highlight on a Dashboard.
    - Learning Objectives
       - Acquire/Extract Data and Load to Power BI.
